@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]blood[/B][/COLOR]Wizard'
 BUILDERNAME = 'blood'
 EXCLUDES = [ADDON_ID, 'repository.blood']
 # Text File with build info in it. Please read https://github.com/a4k-bloodproject/plugin.program.blood/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -98,9 +98,9 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.blood'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://petra1990.000webhostapp.com/matrix/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/hatty098765k/main/repo/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://petra1990.000webhostapp.com/matrix/zips/repository.blood'
+REPOZIPURL = 'https://raw.githubusercontent.com/hatty098765k/main/repo/zips/repository.blood'
 #########################################################
 
 #########################################################

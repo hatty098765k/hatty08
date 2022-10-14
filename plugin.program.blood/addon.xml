@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]blood[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://petra1990.000webhostapp.com/zips/repository.blood/</source>
+        <source>https://raw.githubusercontent.com/hatty098765k/main/repo/zips/repository.blood</source>
         <news>
 2.0.7
  - Initial Commit
